@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Testing
+.pytest_cache/
+
+# Coverage
+.coverage
+
+# OS
+.DS_Store
